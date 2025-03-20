@@ -4,19 +4,19 @@
 
 Server:
 
-data relay: Socket - MQTT proxy
+- data relay: Socket - MQTT proxy
 
-auto re-connection
+- auto re-connection
 
-data encryption supported
+- data encryption supported
 
 
 Client terminal:
 
-data transmission from MQTT proxy
+- data transmission from MQTT proxy
 
-GUI display
+- GUI display
 
-auto slot identification
+- auto slot identification
 
-auto re-connection
+- auto re-connection
